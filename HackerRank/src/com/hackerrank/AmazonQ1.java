@@ -13,8 +13,8 @@ public class AmazonQ1 {
 
 	public static void main(String[] args) 
 	{
-		int array[] = {1,1,0,0,1,1,1,0,0,1,1};
-		int totalNumberOfFlips = 2;
+		int array[] = {1,1,0,0,1,1,1,0,0,1,1,1};
+		int totalNumberOfFlips = 4;
 		int tempFlips = totalNumberOfFlips;
 		int tempNumberOfOnes=0;
 		int maxNumberOfOnes = tempNumberOfOnes;
